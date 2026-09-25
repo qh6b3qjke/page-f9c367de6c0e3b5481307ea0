@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.chashanjob.cn/sitemap.xml
